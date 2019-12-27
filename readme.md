@@ -13,7 +13,7 @@
 #### DELETE
 ![1224_4](./docsimg/1224_4.png)
 
-#### 12월 25일: HTTP Header, File Type
+### 12월 25일: HTTP Header, File Type
 
 text 선택 후 
 http://localhost:3000/mime/homework?image=y로 보낸다
@@ -22,7 +22,7 @@ http://localhost:3000/mime/homework?image=y로 보낸다
 
 
 
-#### 12월 26, 27일: login 구현체
+### 12월 26, 27일: login 구현체
 ![1226_1](./docsimg/1226_1.png)
 waas로 로그인하니 쿠키 생성이 확인된다.
 
